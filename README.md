@@ -1,6 +1,6 @@
 # Tableau
 
-Utilizing the open source, publicly available dataset from Superstores Inc. I've developed three distinct dashboards to explore the data further and turn information into actionable insights. For the interactive dashboards, refer to the Tableau (twbx) files: Tableau software required to view, free to donwload at tableau.com 
+Utilizing the open source, publicly available dataset from Superstores Inc. I've developed three distinct dashboards to explore the data further and turn information into actionable insights. For the interactive dashboards, refer to the Tableau (twbx) files: Tableau software required to view, free to download at tableau.com 
 
 The first is the Dashboard - Global Performance
 
